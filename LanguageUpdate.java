@@ -57,7 +57,5 @@ public class LanguageUpdate {
         return result;
     }
 
-    public static void main(String[] args) {
-        System.out.println(changeRussianOnEnglish("Я люблю настеньку!!!"));
-    }
+  
 }
